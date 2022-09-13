@@ -1,5 +1,4 @@
 {
-\f0\fs26 \cf2 \cb3 \expnd0\expndtw0\kerning0
 import streamlit as st\
 import numpy as np\
 import pandas as pd\
